@@ -21,8 +21,6 @@
 
 # 📌 コードブロック（プログラムやCLIコマンドを書くとき）
 <pre><code>```bash aws s3 ls ```</code></pre>
-bash
-aws s3 ls
 
 
 # 📌 引用（補足や引用に使う）
