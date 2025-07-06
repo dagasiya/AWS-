@@ -4,5 +4,5 @@
 ### Day 1：クラウドの「考え方」を学ぶパート
 - クラウドコンピューターの3つのモデルについて
 1. Software as a Service (SAAS) [goole Docs,Office 365]　→サービスとしてのソフトウェア
-2. Platform as a Service (SAAS) [Google App Engine]　→サービスとしてのプラットフォーム
+2. Platform as a Service (PAAS) [Google App Engine]　→サービスとしてのプラットフォーム
 3. Infrastructure as a Service (IAAS) [AWS, Azure, Digital Ocean]　→サービスとしてのインフラ
