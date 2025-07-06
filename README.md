@@ -20,6 +20,7 @@
 `コードっぽい強調`
 
 # 📌 コードブロック（プログラムやCLIコマンドを書くとき）
+<pre><code>```bash aws s3 ls ```</code></pre>
 bash
 aws s3 ls
 
